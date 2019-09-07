@@ -1,0 +1,27 @@
+[
+  {
+    "Username": "James",
+    "Email": "misterbond@outlook.be",
+    "PhoneNumber": "053999999",
+    "Gender": "male",
+    "DateOfBirth": "1961-02-25",
+    "Password": "password",
+    "KnownAs": "James Bond",
+    "Created": "2018-12-05",
+    "LastActive": "2018-12-05",
+    "Introduction": "Nulla excepteur sit anim ex do qui laboris officia eiusmod ut incididunt. Enim occaecat sint dolor esse et enim. Ad cupidatat exercitation ea id eiusmod nostrud amet Lorem sint. Laboris cupidatat aute dolor ad eu tempor elit ea tempor quis et. Lorem eiusmod commodo cillum id aute nisi fugiat. Aute laborum tempor ullamco elit exercitation veniam commodo elit dolor.\r\n",
+    "LookingFor": "Non do nostrud voluptate cupidatat et proident enim labore voluptate incididunt labore. Incididunt consectetur dolor proident nulla tempor et ipsum anim duis aute commodo duis. Est ullamco fugiat velit exercitation sunt enim duis nisi laborum culpa. Magna reprehenderit excepteur commodo nisi ullamco pariatur laboris. Ullamco fugiat eiusmod veniam duis elit. Cupidatat non occaecat consectetur sunt qui anim. In commodo in deserunt et veniam ad nulla.\r\n",
+    "Interests": "Dolore nisi eiusmod ut irure ullamco nulla dolore est sit tempor quis.",
+    "City": "Balegem",
+    "Country": "Belgium",
+    "BerNumber": "00000000000",
+    "ClientNumber": "010018",
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/men/15.jpg",
+        "isMain": true,
+        "description": "Non deserunt labore sunt ex laboris et adipisicing ullamco officia minim."
+      }
+    ]
+  }
+]
