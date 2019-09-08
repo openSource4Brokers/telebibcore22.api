@@ -7,7 +7,6 @@ using telebibcore22.api.Data;
 using telebibcore22.api.Dtos.User;
 using telebibcore22.api.Helpers;
 using telebibcore22.api.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace telebibcore22.api.Controllers

@@ -8,7 +8,6 @@ using telebibcore22.api.Data;
 using telebibcore22.api.Dtos.Photo;
 using telebibcore22.api.Helpers;
 using telebibcore22.api.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 

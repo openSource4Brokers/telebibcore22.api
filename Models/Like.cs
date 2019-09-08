@@ -1,5 +1,3 @@
-using telebibcore22.api.Models;
-
 namespace telebibcore22.api.Models
 {
     public class Like
